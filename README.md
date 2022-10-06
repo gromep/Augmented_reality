@@ -6,3 +6,5 @@ Dejo por aquí algo de lo que hice con la raspberry orientado a la visión el a�
 Object_Detection es una carpeta de reconocimiento de objetos por redes neuronales.
 
 Aruco son códigos similares a los QR, y son relevantes en Eurobot
+
+color.py es un script que detecta colores con OpenCv
